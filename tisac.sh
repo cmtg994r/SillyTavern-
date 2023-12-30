@@ -39,7 +39,7 @@ tar xf node-v20.10.0-linux-arm64.tar.xz
 echo "export PATH=\$PATH:/root/node-v20.10.0-linux-arm64/bin" >>$current/etc/profile
 fi
 
-git clone https://github.com/cmtg994r/SillyTavern-1
+git clone https://github.com/cmtg994r/SillyTavern-1.git
 
 git clone https://github.com/teralomaniac/clewd
 
